@@ -1,0 +1,6 @@
+c:\users\awid5247\documents\visual studio 2010\Projects\derpyGam\derpyGam\derpyGam\bin\x86\Debug\derpyGam.exe
+c:\users\awid5247\documents\visual studio 2010\Projects\derpyGam\derpyGam\derpyGam\bin\x86\Debug\derpyGam.pdb
+c:\users\awid5247\documents\visual studio 2010\Projects\derpyGam\derpyGam\derpyGam\obj\x86\Debug\derpyGam.csprojResolveAssemblyReference.cache
+c:\users\awid5247\documents\visual studio 2010\Projects\derpyGam\derpyGam\derpyGam\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\awid5247\documents\visual studio 2010\Projects\derpyGam\derpyGam\derpyGam\obj\x86\Debug\derpyGam.exe
+c:\users\awid5247\documents\visual studio 2010\Projects\derpyGam\derpyGam\derpyGam\obj\x86\Debug\derpyGam.pdb
